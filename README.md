@@ -4,7 +4,7 @@ Learning Python, scientific computing, and mathematical modeling
 # Document learning goals and first Python simulation
 I am developing my skills in scientific computing and mathematical modeling to prepare for research opportunities in Earth and Planetary Sciences.
 
-This repository documents my progress in learning Python, numerical methods, stochastic modeling, and scientific visualization. My goal is to develop the computational independence necessary to design, implement, and evaluate mathematical models of natural and physical systems.
+This repository documents my progress in learning Python, numerical methods, stochastic modeling, and scientific visualization. I plan to develop the computational independence necessary to design, implement, and evaluate mathematical models.
 
 
 week01 — One-Dimensional Random Walk
