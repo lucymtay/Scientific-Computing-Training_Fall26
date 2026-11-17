@@ -15,7 +15,7 @@ Objectives:
 - Build habitual workflows between Git and Github.
 
 
-Week01 — One-Dimensional Random Walk
+week01 — One-Dimensional Random Walk
 Implemented a simple one-dimensional random walk using Python loops, lists, and position updates.
 
 The simulation tracks the position of a particle undergoing a predetermined sequence of positive and negative displacements.
